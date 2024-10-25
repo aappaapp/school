@@ -7,7 +7,7 @@ weight: float = 0.0
 
 
 while sex != "M" and sex != "F":
-  sex = input("請輸入性別：(M/F) ")
+  sex = input("請輸入性別：(M/F) ").strip().upper()
 
 while height <= 0:
   try: 
