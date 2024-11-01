@@ -1,5 +1,5 @@
 # 4E21 Aden
-# https://github.com/aappaapp/school/blob/main/s4/python3.py
+# https://github.com/aappaapp/school/blob/main/s4/python2b.py
 
 sex: str = input("請輸入性別：(M/F) ")
 assert sex == "M" or sex == "F"

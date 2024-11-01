@@ -1,5 +1,5 @@
 # 4E21 Aden
-# https://github.com/aappaapp/school/blob/main/s4/python2.py
+# https://github.com/aappaapp/school/blob/main/s4/python2a.py
 
 marks: int = int(input("請輸入你的考試分數："))
 

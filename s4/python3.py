@@ -1,5 +1,5 @@
 # 4E21 Aden
-# https://github.com/aappaapp/school/blob/main/s4/python4.py
+# https://github.com/aappaapp/school/blob/main/s4/python3.py
 
 sex: str = ""
 height: float = 0.0
