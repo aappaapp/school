@@ -1,5 +1,12 @@
-for x in range(1, 10):
+# 4E21 Aden
+
+x_start = 2
+x_end = 9
+y_start = 1
+y_end = 9
+
+for y in range(y_start, y_end + 1):
   row = ""
-  for y in range(2, 10):
-    row += f"{y}*{x}={x * y}\t"
+  for x in range(x_start, x_end + 1):
+    row += f"{x}*{y}={x * y}\t"
   print(row)
